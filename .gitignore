@@ -1,17 +1,17 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
+*.Rproj.user
+*.Rhistory
+*.RData
+*.Ruserdata
 /outputfigs/
 /outputtabs/
 /outputfigs/
 /libs/
 /fib.senescence.GO/
 /Senescence_files/
-.html
-.css
+*.html
+*.css
 blockwise debug.R
-.csv
-.Rmd
-.Rproj
-.Rdata
+*.csv
+*.Rmd
+*.Rproj
+.Rproj.user
